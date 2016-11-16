@@ -22,3 +22,4 @@ tests/settings.py
 tests/test-reports-*/*
 **/*.log
 /.python-version
+/AUTHORS

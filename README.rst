@@ -73,6 +73,16 @@ Usage
 
 See the documentation_ for full details.
 
+Development
+~~~~~~~~~~~
+
+You will need to test your code with Python 2.7-3.5 so installing pyenv would be
+a good start.
+
+
+* https://github.com/yyuu/pyenv/wiki/Common-build-problems
+* https://github.com/yyuu/pyenv-installer
+
 Credits
 -------
 
